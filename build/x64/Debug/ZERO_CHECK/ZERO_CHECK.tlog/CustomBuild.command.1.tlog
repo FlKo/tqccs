@@ -1,0 +1,10 @@
+^C:\TEMP\TQCCS\BUILD\CMAKEFILES\F0BF148FD2421923D5C22691DD544140\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/temp/tqccs -BC:/temp/tqccs/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/temp/tqccs/build/MyCppProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

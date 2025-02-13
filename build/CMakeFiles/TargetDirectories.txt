@@ -1,0 +1,10 @@
+C:/temp/tqccs/build/CMakeFiles/myapp.dir
+C:/temp/tqccs/build/CMakeFiles/INSTALL.dir
+C:/temp/tqccs/build/CMakeFiles/ALL_BUILD.dir
+C:/temp/tqccs/build/CMakeFiles/ZERO_CHECK.dir
+C:/temp/tqccs/build/third_party/fmt/CMakeFiles/fmt.dir
+C:/temp/tqccs/build/third_party/fmt/CMakeFiles/INSTALL.dir
+C:/temp/tqccs/build/third_party/fmt/CMakeFiles/ALL_BUILD.dir
+C:/temp/tqccs/build/third_party/spdlog/CMakeFiles/spdlog.dir
+C:/temp/tqccs/build/third_party/spdlog/CMakeFiles/INSTALL.dir
+C:/temp/tqccs/build/third_party/spdlog/CMakeFiles/ALL_BUILD.dir

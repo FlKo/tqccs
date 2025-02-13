@@ -12,3 +12,11 @@ mkdir build && cd build
 cmake ..
 cmake --build .
 ./myapp
+
+## Usage
+
+Run the program with optional arguments:
+
+```sh
+./myapp --name Alice
+
