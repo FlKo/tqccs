@@ -25,4 +25,4 @@ jobs:
 
     - name: Run Tests (optional)
       run: |
-        ./build/tqccs  # Run the compiled binary
+        ./build/Debug/myapp.exe # Run the compiled binary
